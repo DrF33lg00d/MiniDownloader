@@ -1,0 +1,8 @@
+ffmpeg-python==0.2.0
+retry==0.9.2
+PySimpleGUI==4.60.4
+pytube>12.1.2
+
+# venv\Lib\site-packages\pytube\cipher.py
+# from # transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
+# to # transform_plan_raw = js
